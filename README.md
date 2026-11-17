@@ -1,6 +1,5 @@
-**Course:** Object-Oriented Programming (PBO) — Meeting 10: GUI Basic & Event Handling
-**Name:** Haidar
-**NIM:** F1D02410114
+##Name: Haidar Wahyu Yasari
+##NIM: F1D02410114
 
 ## About the Program
 
