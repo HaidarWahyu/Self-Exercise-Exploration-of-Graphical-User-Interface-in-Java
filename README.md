@@ -1,5 +1,5 @@
-##Name: Haidar Wahyu Yasari
-##NIM: F1D02410114
+Name: Haidar Wahyu Yasari
+NIM: F1D02410114
 
 ## About the Program
 
