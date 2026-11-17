@@ -1,8 +1,6 @@
-# Dashboard Mahasiswa — Java Swing GUI Exercise
-
 **Course:** Object-Oriented Programming (PBO) — Meeting 10: GUI Basic & Event Handling
 **Name:** Haidar
-**NIM:** F1D022410114
+**NIM:** F1D02410114
 
 ## About the Program
 
@@ -33,16 +31,16 @@ java Main
 ## Screenshots
 
 **Home tab** — shows the total number of students.
+<img width="864" height="686" alt="image" src="https://github.com/user-attachments/assets/256cc9cf-48d5-4584-92b9-fdfbfb2ac2c5" />
 
-![Home tab](screenshots/home.png)
 
 **Data tab** — input form and the list of added students.
+<img width="870" height="682" alt="image" src="https://github.com/user-attachments/assets/b6ecf142-e9dc-4d13-b90e-c6f258aeb43c" />
 
-![Data tab](screenshots/data.png)
 
 **Validation** — a warning dialog appears when Name or NIM is empty.
+<img width="868" height="680" alt="image" src="https://github.com/user-attachments/assets/39e2b4d3-f108-4b28-8552-594ca08ef024" />
 
-![Validation dialog](screenshots/validation.png)
 
 ---
 
